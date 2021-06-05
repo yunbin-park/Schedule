@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_year">
+        <item>2016학년도</item>
+        <item>2017학년도</item>
+        <item>2018학년도</item>
+        <item>2019학년도</item>
+        <item>2020학년도</item>
+        <item>2021학년도</item>
+        <item>2022학년도</item>
+        <item>2023학년도</item>
+        <item>2024학년도</item>
+    </string-array>
+    <string-array name="spinner_year_term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+    <string-array name="spinner_year_term_subjectArea">
+        <item>전선</item>
+        <item>전심</item>
+        <item>전필</item>
+        <item>균교</item>
+        <item>교필</item>
+        <item>일선</item>
+    </string-array>
+    <string-array name="spinner_year_term_subjectMajor_major">
+        <item>전체학과</item>
+        <item>건설시스템공학과</item>
+        <item>경영공학과</item>
+        <item>그린화학공학과</item>
+        <item>소프트웨어학과</item>
+        <item>스마트정보통신공학과</item>
+        <item>시스템반도체공학과</item>
+        <item>전자공학과</item>
+        <item>정보보안공학과</item>
+        <item>휴먼지능로봇공학과</item>
+    </string-array>
+    <string-array name="spinner_2021_1_majorChoice_smartInformationAndCommunicationEngineering">
+        <item>전기회로및설계</item>
+        <item>GUI프로그래밍</item>
+        <item>웹프로그래밍</item>
+        <item>신호및시스템</item>
+        <item>마이크로프로세서및설계</item>
+        <item>전자회로및설계</item>
+        <item>서버프로그래밍</item>
+        <item>창의기초설계</item>
+        <item>네트워크설계</item>
+        <item>창의전공설계</item>
+        <item>데이터베이스설계</item>
+        <item>전기·전자·통신교과교육론</item>
+        <item>자료구조설계(SW)</item>
+        <item>네트워크보안</item>
+        <item>전기.전자.통신교과교재및연구법</item>
+        <item>전기.전자.통신교과논리및논술</item>
+        <item>전공과취업(스마트정보통신)</item>
+        <item>캡스톤디자인(정보통신공학)</item>
+        <item>웹프레임워크설계</item>
+        <item>알고리즘</item>
+        <item>머신러닝</item>
+    </string-array>
+    <string-array name="spinner_2021_1_majorDeepen_smartInformationAndCommunicationEngineering">
+        <item>스마트모바일프로그램설계(PBL)</item>
+        <item>통신시스템설계</item>
+        <item>DSP및설계</item>
+        <item>임베디드시스템설계</item>
+        <item>통신시스템설계</item>
+        <item>반도체공학및공정</item>
+        <item>정보통신응용SW프로젝트</item>
+    </string-array>
+    <string-array name="spinner_2021_1_balancedCulture_all">
+        <item>세계신화의이해</item>
+        <item>신화와문화</item>
+        <item>문학과삶의철학</item>
+        <item>협력적의사소통</item>
+        <item>인간과언어</item>
+        <item>상상력과문학</item>
+        <item>동서양고전읽기</item>
+        <item>한국고전명저읽기</item>
+        <item>언어와사회</item>
+    </string-array>
+    <string-array name="spinner_2021_1_necessaryCulture_all">
+        <item>사고와표현</item>
+        <item>EnglishFoundations(SpeakingandListening)</item>
+        <item>EnglishFoundations(ReadingandWriting)</item>
+        <item>기초수학</item>
+        <item>컴퓨팅사고와게임디자인</item>
+        <item>교양과인성</item>
+        <item>사고와표현</item>
+        <item>사회와문화</item>
+        <item>젠더와문화</item>
+        <item>현대사회와윤리</item>
+        <item>영상으로본수학과문명</item>
+        <item>융합창의수학</item>
+        <item>디자인프레젠테이션</item>
+        <item>명작속의캐릭터와공감인문학</item>
+        <item>다른곳의세계와나</item>
+        <item>인간과시간</item>
+        <item>21세기인간학</item>
+        <item>호모엠파티쿠스(고통받는인간)</item>
+        <item>약의과학이야기</item>
+        <item>융복합시대의사유와물음</item>
+        <item>사회적이슈와인권</item>
+        <item>과학적사고와탐구</item>
+        <item>문화감수성의이해와실천</item>
+        <item>빅데이터와소셜마케팅</item>
+        <item>상상속의아이디어</item>
+        <item>유비쿼터스컴퓨팅과미래사회</item>
+        <item>영화속의과학</item>
+        <item>색채심리학</item>
+        <item>영화속의건축여행</item>
+        <item>창의적디자인상상</item>
+        <item>디지털사진윤리</item>
+        <item>과학기술자의직업윤리</item>
+        <item>사회봉사</item>
+    </string-array>
+    <string-array name="spinner_2021_1_cultureChoice_all">
+        <item>실용한자한문</item>
+        <item>TOEIC</item>
+        <item>인간과언어</item>
+        <item>문학과삶의철학</item>
+        <item>수학의길잡이</item>
+    </string-array>
+</resources>
